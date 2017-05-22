@@ -11,7 +11,7 @@
 //********** Variables ************************************************************
 // pin for speaker
 const int speakerPin = 9;
-int tempo = 300;
+int tempo = 60;
 
 //Melody 1
 //int length = 15; // the number of notes
